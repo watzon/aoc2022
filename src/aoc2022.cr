@@ -1,6 +1,6 @@
 require "./aoc2022/*"
 
-DAYS = %w[one two three four]
+DAYS = %w[one two three four five]
 
 {% for day in DAYS %}
 puts "Day {{ day.id }}, part one:"
